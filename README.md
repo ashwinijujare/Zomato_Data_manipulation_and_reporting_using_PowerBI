@@ -57,6 +57,12 @@ c.	Average Cost
 
 ![RestaurantAnalysis](https://github.com/ashwinijujare/Zomato_Data_maipulation_and_reporting_using_PowerBI/assets/117963460/69e48392-a7a8-4de5-8790-a426d0abbc26)
 
+# Mobile Version:
+![WorldWideAnalysis_mobile](https://github.com/ashwinijujare/Zomato_Data_manipulation_and_reporting_using_PowerBI/assets/117963460/b4cdcf6b-2295-4dce-9c63-c0b492bb7526)
+
+![RestaurantAnalysis_mobile](https://github.com/ashwinijujare/Zomato_Data_manipulation_and_reporting_using_PowerBI/assets/117963460/09acd3c1-d081-477f-bd7b-1190bf9739db)
+
+
 # Link to Report published on Power BI Service:
 https://app.powerbi.com/view?r=eyJrIjoiY2ZjNTNjZGUtNmQ1My00MDZkLWFmZDYtNTU5ZGE5OWM4ODQ1IiwidCI6IjQ0NjQ1YjhiLWRhYzctNDM1OS05MmNjLTdmM2JjZWE1YzVlNiJ9
 
